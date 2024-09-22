@@ -42,7 +42,13 @@ Once the frontend is up and running, you can:
 Register as a user (donor or recipient).
 Search for blood by location and blood type.
 Register donations or request blood.
-Screenshots
+## Screenshots
+<img width="909" alt="Screenshot 2024-02-03 153003" src="https://github.com/user-attachments/assets/7a51a410-30e1-4c7c-8d02-30928a1db751">
+<img width="915" alt="Screenshot 2024-02-03 153037" src="https://github.com/user-attachments/assets/f188bc1b-56a0-425f-941a-ccaa5b981abb">
+<img width="906" alt="Screenshot 2024-02-03 153205" src="https://github.com/user-attachments/assets/4fbedf90-d02f-424c-a27b-e9eb42047a46">
+<img width="895" alt="Screenshot 2024-02-03 153309" src="https://github.com/user-attachments/assets/e404e271-1bfd-4a7c-a2cc-68c483faf21b">
+<img width="751" alt="Screenshot 2024-02-03 153539" src="https://github.com/user-attachments/assets/79e6a4fb-f886-431a-981b-8cf26bd68c47">
+<img width="899" alt="Screenshot 2024-02-03 162825" src="https://github.com/user-attachments/assets/f8d6ebc1-fbc2-4899-a2ab-4af3cd5a2bf6">
 
 ## Contact
 For any questions or feedback, please reach out to:
